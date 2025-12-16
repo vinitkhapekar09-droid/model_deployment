@@ -1,0 +1,17 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (optional – remove if you want to track datasets)
+Data/
+
+# OS files
+.DS_Store
+Thumbs.db
